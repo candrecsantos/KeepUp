@@ -4,6 +4,8 @@
 
 Time Maravilha member's: André Santos, Paulo Moutinho, Renata Henriques
 
+YouTube: https://youtu.be/dIHRQ9LJ-qM
+
 Initial Project's diagram: https://app.creately.com/diagram/A7MmJYFgPun/
 
 Final Project's diagram: Diagram folder, diagram.uml
